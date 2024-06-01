@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/Item_jogador"
+        android:title="@string/tvJogador" />
+    <item
+        android:id="@+id/Item_time"
+        android:title="@string/tvTime" />
+</menu>

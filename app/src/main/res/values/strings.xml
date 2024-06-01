@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Aula_Mobile_12_exe1</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="etNomeJogador">DIGITE O NOME</string>
+    <string name="etDataJogador">DATA DE NASCIMENTO</string>
+    <string name="etIDJogador">DIGITE O ID</string>
+    <string name="etPesoJogador">DIGITE O PESO</string>
+    <string name="etAlturaJogador">DIGITE A ALTURA</string>
+    <string name="tvJogador">JOGADOR</string>
+
+    <string name="tvTime">TIME</string>
+
+    <string name="codigoTime">CODIGO</string>
+    <string name="cidadeTime">CIDADE</string>
+    <string name="nomeTimee">NOME</string>
+
+    <string name="cadastrar">CADASTRAR</string>
+    <string name="atualizar">ATUALIZAR</string>
+    <string name="excluir">EXCLUIR</string>
+    <string name="listar">LISTAR</string>
+    <string name="consultar">CONSULTAR</string>
+
+</resources>
